@@ -53586,7 +53586,7 @@ F.rg.prototype={
 aT:function(){return new F.FX(null,C.m)}}
 F.FX.prototype={
 X:function(a,b){var s=null
-return new M.tg(T.a21(new T.xW(C.ao,C.pl,C.pm,C.oi,s,C.r4,s,H.b([new G.qW(new K.x0("62426-loading-fragmented-square.json",s,s,s),s,s,s,s,s,s,s,s,s,300,300,s,s,s,s),L.ajE("\uc0ac\ud53c\uc5d4\uc2a4 \ud648\ud398\uc774\uc9c0 \uac1c\ubc1c\uc911!",A.o0(s,s,C.j,s,s,s,s,s,s,s,s,14,s,s,s,s,!0,s,s,s,s,s,s)),T.U6(s,60,s)],t.fQ),s),s,s),C.k,s)}}
+return new M.tg(T.a21(new T.xW(C.ao,C.pl,C.pm,C.oi,s,C.r4,s,H.b([new G.qW(new K.x0("loading.json",s,s,s),s,s,s,s,s,s,s,s,s,300,300,s,s,s,s),L.ajE("\uc0ac\ud53c\uc5d4\uc2a4 \ud648\ud398\uc774\uc9c0 \uac1c\ubc1c\uc911!",A.o0(s,s,C.j,s,s,s,s,s,s,s,s,14,s,s,s,s,!0,s,s,s,s,s,s)),T.U6(s,60,s)],t.fQ),s),s,s),C.k,s)}}
 F.IB.prototype={
 u:function(a){this.bO(0)},
 b7:function(){var s,r=this.hW$
