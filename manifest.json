@@ -1,11 +1,11 @@
 {
-    "name": "ukkoon",
-    "short_name": "ukkoon",
+    "name": "사피엔스",
+    "short_name": "사피엔스",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "home page of ukkoon",
+    "description": "사피엔스의 홈페이지입니다",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
